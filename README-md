@@ -1,0 +1,10 @@
+# Structural Break Competition – CrunchDAO
+
+This repository contains a baseline workflow for the [CrunchDAO Structural Break competition](https://hub.crunchdao.com/competitions/structural-break/).
+
+## Setup
+
+Clone the repo and install dependencies:
+
+```bash
+pip install -r requirements.txt
